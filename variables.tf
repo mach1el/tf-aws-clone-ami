@@ -1,0 +1,10 @@
+variable "aws_region" {}
+variable "clone_name" {}
+variable "source_id" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "sg_ids" {}
+variable "ssh_key_name" {}
+variable "instance_name" {}
+variable "volume_type" {}
+variable "volume_size" {}
